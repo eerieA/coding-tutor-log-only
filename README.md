@@ -39,3 +39,17 @@ Here is a screenshot of the `lines added + deleted` page from the visualized res
 <img alt="screenshot" src="/gitstats vis.jpg" width="480">
 
 , where `jduan06` was my account.
+
+## Contributors
+
+Here is a mapping of contributors in the graph above to their Github accounts.
+
+samuel78 - [github.com/masvsal](https://github.com/masvsal)
+
+Richard - [github.com/RichardC012](https://github.com/RichardC012)
+
+Brandon Kato - [github.com/btkato](https://github.com/btkato)
+
+Vivaan Wadhwa - [github.com/VivaanWadhwa](https://github.com/VivaanWadhwa)
+
+jduan06 - [github.com/eerieA](https://github.com/eerieA) (self reference)

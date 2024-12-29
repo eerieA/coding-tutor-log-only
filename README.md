@@ -1,6 +1,6 @@
 # Project: Coding? Explain Yourself!
 
-The application facilitates code comprehension assessment for students and progress tracking for teachers. Students will describe given functions in plain English, and Ollama, an open-source LLM, generates code matching their descriptions. The generated code is tested against predefined functions to evaluate comprehension. Key features include user authentication, student and teacher accounts, and a backend comprising an API for data interaction, a code validator for testing generated code, a database for storing user data and submissions, and integration with the Ollama model for code generation.
+The application facilitates code comprehension assessment for students and progress tracking for teachers. Students will describe given functions in plain English, and Ollama, an open-source LLM backend and API, generates code matching their descriptions. The generated code is tested against predefined functions to evaluate comprehension. Key features include user authentication, student and teacher accounts, and a backend comprising an API for data interaction, a code validator for testing generated code, a database for storing user data and submissions, and integration with the Ollama model for code generation.
 
 *Note: This app description was copied from our internal repo's README.md. Said repo was downloaded from UBC GitHub space and then uploaded to a repo under my GitHub account on this site, but is kept private. The reason being I am not sure if we have full rights to the course project product itself yet.*
 

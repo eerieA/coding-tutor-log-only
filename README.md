@@ -1,10 +1,10 @@
 # Project: Coding? Explain Yourself!
 
-(App description copied from our internal repo's README.md.)
-
 The application facilitates code comprehension assessment for students and progress tracking for teachers. Students will describe given functions in plain English, and Ollama, an open-source LLM, generates code matching their descriptions. The generated code is tested against predefined functions to evaluate comprehension. Key features include user authentication, student and teacher accounts, and a backend comprising an API for data interaction, a code validator for testing generated code, a database for storing user data and submissions, and integration with the Ollama model for code generation.
 
-## Revised demo video 4 months after
+*Note: This app description was copied from our internal repo's README.md. Said repo was downloaded from UBC GitHub space and then uploaded to a repo under my GitHub account on this site, but is kept private. The reason being I am not sure if we have full rights to the course project product itself yet.*
+
+## Revised demo video 4 months later
 
 Video on Youtube (5m 40s):
 
@@ -24,7 +24,7 @@ This was done right after the official completion date, so it was not a very pol
 
 Other contributions:
 - Mocha tests (both for Node environment and browser environment).
-- A few async function debugging and fixes.
+- Async back-end function debugging and fixes.
 - Simple user jailbreak attempt prevention.
 - Other bug fixes and integration tests.
 
@@ -52,14 +52,10 @@ Here is a screenshot of the `lines added + deleted` page from the visualized res
 
 ## Contributors
 
-Here is a mapping of contributors in the graph above to their Github accounts.
+Here is a mapping of contributors in the graph above to their accounts in this public GitHub site domain.
 
-samuel78 - [github.com/masvsal](https://github.com/masvsal)
-
-Richard - [github.com/RichardC012](https://github.com/RichardC012)
-
-Brandon Kato - [github.com/btkato](https://github.com/btkato)
-
-Vivaan Wadhwa - [github.com/VivaanWadhwa](https://github.com/VivaanWadhwa)
-
-jduan06 - [github.com/eerieA](https://github.com/eerieA) (self reference)
+- samuel78 - [github.com/masvsal](https://github.com/masvsal)
+- Richard - [github.com/RichardC012](https://github.com/RichardC012)
+- Brandon Kato - [github.com/btkato](https://github.com/btkato)
+- Vivaan Wadhwa - [github.com/VivaanWadhwa](https://github.com/VivaanWadhwa)
+- jduan06 - [github.com/eerieA](https://github.com/eerieA) (self reference)

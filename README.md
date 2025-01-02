@@ -8,7 +8,7 @@ The application facilitates code comprehension assessment for students and progr
 
 Video on Youtube (5m 40s):
 
-[<img alt="screenshot" src="/resources/Project retro 2 screenshot.jpg" width="320">](https://youtu.be/QplI0PaIAOo)
+[<img alt="screenshot" src="/resources/Retro 2 screenshot.gif" width="320">](https://youtu.be/QplI0PaIAOo)
 
 This was done 4 months later. After adding a chat box feature, I did a concise retro showcasing all the main features the team completed. This is a more polished video trying to include everyone's contributions.
 

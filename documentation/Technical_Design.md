@@ -727,11 +727,11 @@ As a student, I think it would be nice to have game-like virtual rewards, so tha
 
 ### UI mockups
 
-<img alt="UI mockups" src="/resources/UI mockups.jpg" width="320">
+<img alt="UI mockups" src="/resources/UI mockups.jpg" width="500">
 
 ### UI usage and API communication diagram
 
-<img alt="UI mockups" src="/resources/UI usage and API.jpg" width="320">
+<img alt="UI mockups" src="/resources/UI usage and API.jpg" width="500">
 
 ## REST API
 
@@ -1132,7 +1132,7 @@ Example prompt:
 
 * ER Diagram:
 
-<img alt="UI mockups" src="/resources/ER diagram.jpg" width="320">
+<img alt="UI mockups" src="/resources/ER diagram.jpg" width="500">
 
 * Tables (underline indicates primary key(s), **bold** indicates foreign key):  
   * User:  

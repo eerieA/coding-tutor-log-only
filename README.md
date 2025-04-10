@@ -11,7 +11,7 @@ The application facilitates code comprehension assessment for students and progr
 Here is a mapping of contributors in the Git commit history to their accounts in this public GitHub site domain.
 
 - samuel78 - [github.com/masvsal](https://github.com/masvsal)
-- Richard - [github.com/RichardC012](https://github.com/RichardC012)
+- Richard - [github.com/richardc412](https://github.com/richardc412)
 - Brandon Kato - [github.com/btkato](https://github.com/btkato)
 - Vivaan Wadhwa - [github.com/VivaanWadhwa](https://github.com/VivaanWadhwa)
 - jduan06 - [github.com/eerieA](https://github.com/eerieA) (self reference)
